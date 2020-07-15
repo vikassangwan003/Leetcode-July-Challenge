@@ -53,3 +53,4 @@ public:
         return min(angle,360-angle);
     }
 };
+
